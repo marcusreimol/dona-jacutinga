@@ -1,0 +1,1 @@
+O evento "Build with AI" é um workshop técnico e palestra organizado pelo Google Developer Groups Pelotas para ajudar os desenvolvedores a aprender e aplicar as próprias habilidades nas tendências e nos produtos de IA generativa do Google.
